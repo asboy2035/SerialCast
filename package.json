@@ -12,6 +12,7 @@
     "Developer Tools"
   ],
   "license": "MIT",
+  "type": "module",
   "commands": [
     {
       "name": "start",
